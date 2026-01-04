@@ -7,7 +7,8 @@ let's do it
 ### Add below - C:\Users\[CurrentUser]\.gitconfig
 
 Personal Account
-``` yaml
+
+```yaml
 
 [user] 
 	name = Rahul Kumar 
@@ -20,10 +21,10 @@ Personal Account
 
 ```
 
-
 ### Add below - C:\Users\[CurrentUser]\.gitconfig-work
 
 Work Account
+
 ```yaml
 
 [user] 
@@ -34,7 +35,9 @@ Work Account
 
 ```
 
-
 - once done this directory ie: `gitdir/i:D:/2026/work/` will be treated as work directory which uses `.gitconfig-work` as its `.gitconfig`
-- Everytime you go to work directory ie: `gitdir/i:D:/2026/work/` it will commit to this github acc and not you personal acc 
+- Everytime you go to work directory ie: `gitdir/i:D:/2026/work/` it will commit to this github acc and not you personal acc
 - all the places on your laptop except for : `gitdir/i:D:/2026/work/` will be using your default account ie personal
+- 
+
+<center><img alt = "Git Banner" src = "./banner.png"></center>
